@@ -1,0 +1,44 @@
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+  color: darkcyan;
+  font-size: 70px;
+}
+
+h2 {
+  font-family: 'Courier New', Courier, monospace;
+  color: darkcyan;
+  font-size: 25px;
+}
+p {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: darkblue;
+  font-size: 20px;
+}
+ul {
+  font-family: 'Times New Roman', Times, serif;
+  color: royalblue;
+  font-size: 20px;
+}
+
+ol {
+  font-family: 'Times New Roman', Times, serif;
+  color: royalblue;
+  font-size: 20px;
+}
+ .center-text {
+   text-align: center;
+ }
+
+header {
+background-color: antiquewhite;
+height: 40px;
+padding: 30px;
+margin: 20px;
+ }
+
+ main {
+background-color: lavenderblush;
+height: 800px;
+padding: 30px;
+margin: 20px;
+ }

@@ -1,2 +1,2 @@
-# JennaLynnProfile
-My personal Developer page 
+# MyFirstSite
+Making My portfolio
