@@ -1,3 +1,4 @@
+/* the body of my sites styling */
 h1 {
   font-family: 'Courier New', Courier, monospace;
   color: darkcyan;
@@ -38,18 +39,19 @@ margin: 20px;
 
  main {
 background-color: lavenderblush;
-height: 850px;
+height: 900px;
 padding: 40px;
 margin: 40px;
  }
-
+/* article */
  .happy {
   margin: 0;
   padding: .3rem;
-  background-color: rgb(228, 25, 25);
+  background-color: lightblue
   font: 1rem 'Fira Sans', sans-serif;
  }
 
+/* these are for the links to change when interacted with*/
  a:link {color: blue}
  a:visited {color: black}
  a:hover {color:cadetblue}
