@@ -42,3 +42,14 @@ height: 850px;
 padding: 40px;
 margin: 40px;
  }
+
+ .happy {
+  margin: 0;
+  padding: .3rem;
+  background-color: rgb(228, 25, 25);
+  font: 1rem 'Fira Sans', sans-serif;
+ }
+
+ a:link {color: blue}
+ a:visited {color: black}
+ a:hover {color:cadetblue}
