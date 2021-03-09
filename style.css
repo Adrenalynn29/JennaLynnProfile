@@ -46,12 +46,12 @@ padding: 40px;
 margin: 40px;
  }
 /* I tried so hard to fix the footer because it kept floating in the middle of my page*/
-/*footer {
-background-color: rgb(8, 0, 3);
-height: 0px;
-padding: 20px;
-margin: 40px;
- }*/
+footer {
+  clear: both;
+  position: relative;
+  height: 200px;
+  margin-top: -200px;
+}
 /* article */
  .happy {
   margin: 0;
