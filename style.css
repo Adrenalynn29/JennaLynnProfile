@@ -48,7 +48,7 @@ margin: 40px;
 
 footer {
 background-color: rgb(8, 0, 3);
-height: 10px;
+height: 0px;
 padding: 20px;
 margin: 40px;
  }
@@ -71,13 +71,14 @@ margin: 40px;
    color:cadetblue;
   }
 /*the footer kept floating in the middle of my page*/ 
-  /*html, body {
+  html, body {
     padding:0; 
     margin:0; 
     height:100%;
   }
+
 footer{
   position: absolute; 
   bottom: 0; left: 0; 
   right: 0;
-}*/
+}
