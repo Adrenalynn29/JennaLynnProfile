@@ -7,7 +7,7 @@ h1 {
 
 h2 {
   font-family: 'Courier New', Courier, monospace;
-  color: rgba(239, 200, 243, 0.911);
+  color: rgb(249, 245, 250);
   font-size: 25px;
 }
 p {
@@ -19,13 +19,13 @@ p {
 }
 ul {
   font-family: 'Times New Roman', Times, serif;
-  color: rgb(156, 179, 248);
+  color: rgb(5, 133, 33);
   font-size: 20px;
 }
 
 ol {
   font-family: 'Times New Roman', Times, serif;
-  color: rgb(241, 174, 247);
+  color: rgb(38, 23, 250);
   font-size: 20px;
 }
  .center-text {
@@ -45,6 +45,13 @@ height: 900px;
 padding: 40px;
 margin: 40px;
  }
+
+ footer {
+  background-color: rgb(8, 0, 3);
+  height: 10px;
+  padding: 40px;
+  margin: 40px;
+   }
 /* article */
  .happy {
   margin: 0;
@@ -64,7 +71,7 @@ margin: 40px;
    color:cadetblue;
   }
 /*the footer kept floating in the middle of my page*/ 
-  html, body {
+  /*html, body {
     padding:0; 
     margin:0; 
     height:100%;
@@ -73,4 +80,4 @@ footer{
   position: absolute; 
   bottom: 0; left: 0; 
   right: 0;
-}
+}*/
