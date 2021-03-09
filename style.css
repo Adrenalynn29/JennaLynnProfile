@@ -14,6 +14,8 @@ p {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color: darkblue;
   font-size: 20px;
+  
+  /*lists*/
 }
 ul {
   font-family: 'Times New Roman', Times, serif;
@@ -37,7 +39,7 @@ padding: 30px;
 margin: 20px;
  }
 
- main {
+main {
 background-color: lavenderblush;
 height: 900px;
 padding: 40px;
@@ -47,11 +49,28 @@ margin: 40px;
  .happy {
   margin: 0;
   padding: .3rem;
-  background-color: lightblue
+  background-color: lightblue;
   font: 1rem 'Fira Sans', sans-serif;
  }
 
-/* these are for the links to change when interacted with*/
- a:link {color: blue}
- a:visited {color: black}
- a:hover {color:cadetblue}
+/* these are for the links to change color when interacted with*/
+ a:link {
+   color: blue;
+  }
+ a:visited {
+   color: black;
+  }
+ a:hover {
+   color:cadetblue;
+  }
+/*the footer kept floating in the middle of my page*/ 
+  html, body {
+    padding:0; 
+    margin:0; 
+    height:100%;
+  }
+footer{
+  position: absolute; 
+  bottom: 0; left: 0; 
+  right: 0;
+}
