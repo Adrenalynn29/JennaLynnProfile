@@ -21,9 +21,9 @@ p {
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color: rgb(178, 159, 248);
   font-size: 20px;
-  
-  /*lists*/
 }
+  /*lists*/
+
 ul {
   font-family: 'Times New Roman', Times, serif;
   color: rgb(73, 55, 177);
@@ -39,6 +39,7 @@ ol {
   text-align: center;
   list-style-position: inside;
 }
+
  .center-text {
    text-align: center;
  }
